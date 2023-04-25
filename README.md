@@ -27,7 +27,7 @@
 
 # 📖 Hello Microverse! Project <a name="about-project"></a>
 
-> In this project, you will set up a "Hello world" repository. My goal is to master the necces repository tool and linters. With this skill, I will use it a create a simple project with html and css files
+> In this project, I will set up a "Hello Microverse" project. My goal is to master the neccesary repository tool and linters. With this skill, I will create a simple project with html and css files
 
 **Hello Microverse Project** is a...
 
@@ -37,7 +37,7 @@
 
 THe various stacks used for the project includes the following
 <details>
-  <summary>HTMl</summary>
+  <summary>HTML</summary>
 </details>
 
 <details>
