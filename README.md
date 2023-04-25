@@ -201,7 +201,6 @@ If you like this project you can support us  by sharing our code
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **Do you need nodejs installed on your machine**
 
