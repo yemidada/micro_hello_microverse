@@ -32,15 +32,13 @@
 
 # 📖 Hello Microverse! Project <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **In this project, you will set up a "Hello world" repository. My goal is to master the necces repository tool and linters. With this skill, I will use it a create a simple project with html and css files.** 
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> The various stacks used for the project includes the following
+The various stacks used for the project includes the following
 <details>
   <summary>HTMl</summary>
 </details>
