@@ -37,7 +37,7 @@
 
 THe various stacks used for the project includes the following
 <details>
-  <summary>HTMl</summary>
+  <summary>HTML</summary>
 </details>
 
 <details>
