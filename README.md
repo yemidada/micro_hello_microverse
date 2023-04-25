@@ -201,6 +201,7 @@ If you like this project you can support us  by sharing our code
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
+
 - **Do you need nodejs installed on your machine**
 
   - Yes, nodejs need to be running properly on your machine
