@@ -119,8 +119,8 @@ Example command:
 
 👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/yemidada)
-- Twitter: [@twitterhandle](https://twitter.com/naijavine)
+- GitHub: [@yemidada](https://github.com/yemidada)
+- Twitter: [@naijavine](https://twitter.com/naijavine)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/yemidada)
 
 
