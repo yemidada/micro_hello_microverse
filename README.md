@@ -172,8 +172,7 @@ Example:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **Add a function mobile compatibility**
-- [ ] **Add More Features to the design**
+- [ ] **Add other section of the design as shown on figma**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
