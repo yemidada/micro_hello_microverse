@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h3><b>Hello Microverse! Project</b></h3>
+  <h3><b>Add setup and mobile first - portfolio</b></h3>
 
 </div>
 
@@ -32,7 +32,16 @@
 
 # 📖 Hello Microverse! Project <a name="about-project"></a>
 
-**In this project, you will set up a "Hello world" repository. My goal is to master the necces repository tool and linters. With this skill, I will use it a create a simple project with html and css files.** 
+**For this project, I established a repository for my portfolio website. My objective is to develop the initial two sections of the portfolio website.**
+
+the toolbar (or header):
+
+![screenshot](/assets/images/screenshot-toolbar-mobile.png)
+
+the headline section (right after the header):
+
+![screenshot](/assets/images/screenshot-headline-mobile.png)
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -57,12 +66,11 @@ The various stacks used for the project includes the following
 
 > 
 
-- **Create branches with different base branches.**
-- **Add 3 files (each one in a separate commit)**
-- **Set up a linter for HTML and CSS**
+- **Learn how to translate a Figma design into a functional UI.**
+- **Utilize Flexbox to position various elements on a web page.**
+- **Utilize CSS Grid to arrange different elements on a web page.**
+- **Develop a portfolio website.**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -154,7 +162,7 @@ Example:
 
 - GitHub: [@yemidada](https://github.com/yemidada)
 - Twitter: [@naijavine](https://twitter.com/naijavine)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/yemidada)
+- LinkedIn: [yemidada](https://linkedin.com/in/yemidada)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -164,8 +172,7 @@ Example:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **Add a function mobile compatibility**
-- [ ] **Add More Features to the design**
+- [ ] **Add other section of the design as shown on figma**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -192,7 +199,7 @@ If you like this project you can support us  by sharing our code
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to microverse for explaining Linters 
+> Give credit to microverse for the oppurtunity
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
