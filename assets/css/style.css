@@ -429,7 +429,6 @@ textarea {
   /*
     tonic
   */
-
   .tonic {
     margin: 2rem;
     padding: 1.5rem;
@@ -505,6 +504,10 @@ textarea {
 
   .logo {
     order: 0;
+  }
+
+  .tonic {
+    grid-template-columns: auto auto;
   }
 
   .item {
