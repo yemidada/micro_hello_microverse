@@ -245,21 +245,13 @@ nav {
 /* .tonic .image {
 } */
 
-.content {
-  padding: 24px;
-}
-
 .content .title {
-  font-size: 40px;
-  line-height: 52px;
   font-weight: 700;
   color: #091e42;
   margin-bottom: 12px;
 }
 
 .content .desc {
-  font-size: 16px;
-  line-height: 24px;
   color: rgba(52, 69, 99, 1);
   margin-bottom: 24px;
   font-style: normal;
@@ -308,7 +300,10 @@ nav {
   border-top-right-radius: 5rem;
   align-content: flex-start;
   padding: 8rem;
-  margin-bottom: -50px;
+
+  /*
+    margin-bottom: -50px;
+  */
 }
 
 .about .casualose .border-bottom {
@@ -439,13 +434,39 @@ textarea {
     width: 100%;
   }
 
+  .content {
+    padding: 24px 0;
+  }
+
+  .content .title {
+    font-size: 32px;
+    line-height: 44px;
+  }
+
+  .content .desc {
+    font-size: 15px;
+    line-height: 24px;
+  }
+
+  .content .summary {
+    font-size: 13px;
+    line-height: 16px;
+  }
+
   /*
     about styles
   */
 
   .about {
+    padding: 5rem 3rem 5rem 3rem;
+  }
+
+  /*
+  //TODO restore back
+  .about {
     padding: 5rem 3rem 12rem 3rem;
   }
+  */
 
   .about .info,
   .about .casualose {
@@ -540,6 +561,25 @@ textarea {
 
   .tonic img {
     width: auto;
+  }
+
+  .content {
+    padding: 24px;
+  }
+
+  .content .title {
+    font-size: 40px;
+    line-height: 52px;
+  }
+
+  .content .desc {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .content .summary {
+    font-size: 18px;
+    line-height: 24px;
   }
 
   /*
