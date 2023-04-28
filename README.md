@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h3><b>Add setup and mobile first - portfolio</b></h3>
+  <h3><b>Portfolio: finish mobile version</b></h3>
 
 </div>
 
@@ -30,17 +30,17 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Microverse! Project <a name="about-project"></a>
+# 📖 Portfolio: finish mobile version <a name="about-project"></a>
 
-**For this project, I established a repository for my portfolio website. My objective is to develop the initial two sections of the portfolio website.**
+**For this project, I established a repository for my portfolio website. My objective is to develop a complete portfolio website that is responsive on both mobile and web platform.**
 
-the toolbar (or header):
+"Works" section:
 
-![screenshot](/assets/images/screenshot-toolbar-mobile.png)
+![screenshot](/assets/images/screenshot-works-mobile.png)
 
-the headline section (right after the header):
+the "About myself" section (placed after the projects and before the contact form):
 
-![screenshot](/assets/images/screenshot-headline-mobile.png)
+![screenshot](/assets/images/screenshot-about-mobile.png)
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -172,8 +172,8 @@ Example:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **Add other section of the design as shown on figma**
-
+- [ ] **Add animation effect to the css (Animate.css)**
+- [ ] **Improve the designs**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,7 +199,7 @@ If you like this project you can support us  by sharing our code
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to microverse for the oppurtunity
+> Thanks you for checking out my repository
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
