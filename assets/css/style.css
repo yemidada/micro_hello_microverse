@@ -506,10 +506,6 @@ textarea {
     order: 0;
   }
 
-  .tonic {
-    grid-template-columns: auto auto;
-  }
-
   .item {
     order: 1;
     position: relative;
@@ -539,6 +535,7 @@ textarea {
   .tonic {
     padding: 1.5rem;
     margin: 7rem;
+    grid-template-columns: auto auto;
   }
 
   .tonic img {
