@@ -199,15 +199,11 @@ nav {
 }
 
 .heading__title {
-  font-size: 48px;
-  line-height: 60px;
   color: rgba(9, 30, 66, 1);
   margin-bottom: 12px;
 }
 
 .heading__desc {
-  font-size: 20px;
-  line-height: 28px;
   color: #344563;
   font-weight: 400;
   margin-bottom: 20px;
@@ -421,6 +417,16 @@ textarea {
     padding-left: 10px;
   }
 
+  .heading__title {
+    font-size: 40px;
+    line-height: 52px;
+  }
+
+  .heading__desc {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
   /*
     tonic
   */
@@ -551,6 +557,16 @@ textarea {
   nav {
     padding-right: 155px;
     padding-left: 100px;
+  }
+
+  .heading__title {
+    font-size: 48px;
+    line-height: 60px;
+  }
+
+  .heading__desc {
+    font-size: 20px;
+    line-height: 28px;
   }
 
   .tonic {
